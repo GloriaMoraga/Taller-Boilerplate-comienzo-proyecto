@@ -1,0 +1,4 @@
+const miFuncionTesteable = () => {
+return true;
+
+}

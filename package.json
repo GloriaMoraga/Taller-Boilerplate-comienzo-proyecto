@@ -8,7 +8,13 @@
   },
   "author": "Gloria Moraga Morales",
   "license": "ISC",
-  "dependencies": {
-    "chai": "^4.2.0"
+  "dependencies": {},
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "chai": "^4.2.0",
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "jest-cli": "^24.0.0"
   }
 }
