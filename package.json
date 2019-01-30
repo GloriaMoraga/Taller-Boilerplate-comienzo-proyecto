@@ -1,0 +1,14 @@
+{
+  "name": "boilerplate",
+  "version": "0.0.1",
+  "description": "Estee es un taller de como comenzar proyectos de frontEnd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gloria Moraga Morales",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
